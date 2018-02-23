@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>335235653816-tu8o8c2ng6heblkstgc3hvc24d6pplct.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.335235653816-tu8o8c2ng6heblkstgc3hvc24d6pplct</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBCI2vn7Vo8B-eYhu_BTnxdZLedNSWVXZM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>335235653816</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.yukao.sampleAutoLayoutLibrary</string>
+	<key>PROJECT_ID</key>
+	<string>sampleautolayoutlibrary</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sampleautolayoutlibrary.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:335235653816:ios:0ae35740dd7c9344</string>
+	<key>DATABASE_URL</key>
+	<string>https://sampleautolayoutlibrary.firebaseio.com</string>
+</dict>
+</plist>
